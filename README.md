@@ -8,7 +8,7 @@ by this tool will not be my responsibility..
 
 [+] Make Sure To Read The License.
 [+] I Am Not Responsible For Any Harm Caused.
-[+] Show some ⭐ to the repo for support
+[+] Show some ⭐ to the repo for support.
 [+] (c) Copyright Akash Pattnaik 2020-2025.
 ```
 

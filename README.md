@@ -14,7 +14,6 @@ by this tool will not be my responsibility..
 
 ## Installation
 **Lets See How Can You Install This Extremely Powerful Tool**
-### Installation With [Git](https://github.com/BLUE-DEVIL1134)
 **You Can Install This Tool With `Git` Like This :)**
 > Open Your Terminal And Type In >>
 ```stylelint
@@ -22,15 +21,6 @@ git clone https://github.com/BLUE-DEVIL1134/IronEye.git
 cd IronEye
 chmod +x *
 bash IronEye.sh
-```
-
-### Installation With [Pypi](https://pypi.org/)
-**You Can Install This Tool With `Pypi` Like This :)**
-> Open Your Terminal And Type In >>
-```stylelint
-pip install IronEye
-clear
-IronEye
 ```
 
 ## Examples

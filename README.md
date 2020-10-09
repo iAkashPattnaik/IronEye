@@ -40,6 +40,20 @@ IronEye
 <details>
     <summary>Click Here To See The License !</summary>
     <code>
+                      Private License
+        (c) Akash Pattnaik , 2020-2025
+
+  Terms :-
+
+[1] - Any one is free to use this tool in any way...
+[2] - I Will not be responsible for the harm caused by this tool.
+[3] - Forking Or Using The Tool without A STAR Will me Regarded As A Crime..
+[4] - Modifying The Project Without Giving Me Credits Is Also A Crime..
+
+* If Any Terms Is Violated,
+  Remember That CyberCrime Buero Is 
+  Close To My House.
+
     </code>
 </details>
 

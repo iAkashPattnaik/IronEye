@@ -1,8 +1,8 @@
-# <h1 align="center">DrakX</h1>
+# <p align="center">IronEye</p>
 
 ## Description
 ```stylelint
-DarkX Is a extremely powerful tool for used for hacking purpose..
+IronEye Is a extremely powerful tool for used for hacking purpose..
 I made this only for educational purpose and any kind of harm caused 
 by this tool will not be my responsibility..
 
@@ -18,19 +18,19 @@ by this tool will not be my responsibility..
 **You Can Install This Tool With `Git` Like This :)**
 > Open Your Terminal And Type In >>
 ```stylelint
-git clone https://github.com/BLUE-DEVIL1134/DrakX.git
-cd DarkX
+git clone https://github.com/BLUE-DEVIL1134/IronEye.git
+cd IronEye
 chmod +x *
-bash DarkX.sh
+bash IronEye.sh
 ```
 
 ### Installation With [Pypi](https://pypi.org/)
 **You Can Install This Tool With `Pypi` Like This :)**
 > Open Your Terminal And Type In >>
 ```stylelint
-pip install DarkX
+pip install IronEye
 clear
-DarkX
+IronEye
 ```
 
 ## Examples
@@ -45,5 +45,5 @@ DarkX
 
 ## **Tool By -**
 <a href="https://telegram.me/AKASH_AM1">
-    <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile" height="200">
+    <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile" height="200" align="center">
 </a>

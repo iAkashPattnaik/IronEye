@@ -37,8 +37,8 @@ IronEye
 <img src="img/1.png" alt="Example_1">
 <img src="img/2.png" alt="Example_2">
 
-<details>
-    <summary>Click Here To See The License !</summary>
+## License
+```
                       Private License
         (c) Akash Pattnaik , 2020-2025
 
@@ -52,7 +52,7 @@ IronEye
 * If Any Terms Is Violated,
   Remember That CyberCrime Buero Is 
   Close To My House.
-</details>
+```
 
 ## **Tool By -**
 <a href="https://telegram.me/AKASH_AM1">

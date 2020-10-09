@@ -39,7 +39,6 @@ IronEye
 
 <details>
     <summary>Click Here To See The License !</summary>
-    <code>
                       Private License
         (c) Akash Pattnaik , 2020-2025
 
@@ -53,8 +52,6 @@ IronEye
 * If Any Terms Is Violated,
   Remember That CyberCrime Buero Is 
   Close To My House.
-
-    </code>
 </details>
 
 ## **Tool By -**

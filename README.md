@@ -2,7 +2,7 @@
 
 ## Description
 ```stylelint
-IronEye Is a extremely powerful tool for used for hacking purpose..
+IronEye Is a extremely powerful tool for used for Cracking Purpose On Phones.
 I made this only for educational purpose and any kind of harm caused 
 by this tool will not be my responsibility..
 
@@ -29,7 +29,7 @@ bash IronEye.sh
 
 ## License
 ```
-                      Private License
+                Private License
         (c) Akash Pattnaik , 2020-2025
 
   Terms :-
@@ -45,6 +45,6 @@ bash IronEye.sh
 ```
 
 ## **Tool By -**
-<a href="https://telegram.me/AKASH_AM1">
+<a href="https://telegram.me/AKASH_AM1" align="center">
     <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile" height="200" align="center">
 </a>

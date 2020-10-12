@@ -24,7 +24,7 @@ pkg install python3-pip -y
 pkg install wget -y
 pkg install openssh openssl -y
 pkg install python -y
-pkg install -r requirements.txt
+pip install -r requirements.txt
 
 # No more Requirement
 rm requirements.txt

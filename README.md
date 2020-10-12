@@ -36,25 +36,16 @@ by this tool will not be my responsibility..
 #### **_Open Your Terminal (Linux Based) And Copy-Paste These >>_**
 ```stylelint
 apt update && apt upgrade -y
-
-
 apt install git -y
-apt install python3-pip -y
-apt install wget -y
-apt install openssh openssl -y
-apt install python -y
-apt install dart -y
-
 
 git clone https://github.com/BLUE-DEVIL1134/IronEye.git
 cd IronEye
-chmod +x * (For Linux Based terminal Only)
-dart main.dart
+chmod +x *
+IronEye.sh
 ```
 
 ## Examples
-<img src="./img/1.png" alt="Example_1" height="200">
-<img src="./img/2.png" alt="Example_2" height="200">
+<img src="./img/Example.gif" alt="Example_1">
 
 ## License
 ```
@@ -67,7 +58,7 @@ dart main.dart
 [2] - I Will not be responsible for the harm caused by this tool.
 [3] - Forking Or Using The Tool without A STAR Will me Regarded As A Crime..
 [4] - Modifying The Project Without Giving Me Credits Is Also A Crime..
-[5] - This Tool Is Only FOr Educational Purposes.
+[5] - This Tool Is Only For Educational Purposes.
 
 * If Any Terms Is Violated,
   Remember That CyberCrime Buero Is 
@@ -77,7 +68,4 @@ dart main.dart
 ## Tool_By
 <a href="https://telegram.me/AKASH_AM1">
     <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile1" height="200" align="center">
-</a>
-<a href="https://telegram.me/pureindialover">
-    <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile2" height="200" align="center">
 </a>

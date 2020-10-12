@@ -27,5 +27,5 @@ apt install python -y
 pip install -r requirements.txt
 
 # No more Requirement
-rm -r requirements.txt
+rm requirements.txt
 python -m IronEye

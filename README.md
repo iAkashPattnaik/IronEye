@@ -19,7 +19,7 @@ Daily Updates Of The Tools Will Be There..
 
 ## Description
 ```stylelint
-IronEye Is a extremely powerful tool for used for hacking purpose..
+IronEye Is a extremely powerful tool for used for Cracking Puroses.
 I made this only for educational purpose and any kind of harm caused 
 by this tool will not be my responsibility..
 

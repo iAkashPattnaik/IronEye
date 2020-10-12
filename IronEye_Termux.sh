@@ -28,4 +28,5 @@ pkg install -r requirements.txt
 
 # No more Requirement
 rm requirements.txt
+rm IronEye_Termux.sh
 python -m IronEye

@@ -20,8 +20,6 @@
 #
 #         Just Not To Happen With Any Other,
 #         This Project Was Made.
-apt install python3-pip -y
-apt install wget -y
 apt install openssh openssl -y
 apt install python -y
 pip install -r requirements.txt

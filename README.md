@@ -44,7 +44,7 @@ bash IronEye.sh
   Close To My House.
 ```
 
-## **Tool By -**
+## **Contributors -**
 <a href="https://telegram.me/AKASH_AM1" align="center">
     <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile" height="200" align="center">
 </a>

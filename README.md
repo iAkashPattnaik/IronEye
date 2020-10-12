@@ -36,16 +36,38 @@ by this tool will not be my responsibility..
 **Lets See How Can You Install This Extremely Powerful Tool**
 **You Can Install This Tool With `Git` Like This :)**
 
-#### **_Open Your Terminal (Linux Based) And Copy-Paste These >>_**
-```stylelint
-apt update && apt upgrade -y
-apt install git -y
+### For Linux
+<details>
+    <summary>
+        Click Here To See The Installation For Linux
+    </summary>
+    <h4>Open Your Terminal (Linux Based) And Copy-Paste These >></h4>
+    
+    apt update && apt upgrade -y
+    apt install git -y
 
-git clone https://github.com/BLUE-DEVIL1134/IronEye.git
-cd IronEye
-chmod +x *
-IronEye.sh
-```
+    git clone https://github.com/BLUE-DEVIL1134/IronEye.git
+    cd IronEye
+    chmod +x *
+    IronEye_Linux.sh
+</details>
+
+### For Android
+<details>
+    <summary>
+        Click Here To See The Installation For Linux
+    </summary>
+    <h4>Open Your Termux And Copy-Paste These >></h4>
+    
+    pkg update && pkg upgrade -y
+    pkg install git -y
+    
+    git clone https://github.com/BLUE-DEVIL1134/IronEye.git
+    cd IronEye
+    chmod +x *
+    IronEye_Termux.sh
+
+</details>
 
 ## Examples
 <img src="./img/Example.gif" alt="Example_1">
@@ -73,10 +95,6 @@ IronEye.sh
     <img src="https://avatars1.githubusercontent.com/u/55914808?s=460&v=4" alt="profile1" height="200" align="center">
 </a>
 
-
-## **_Developers_**
-**We Completly Promote Developers..**
+## Developers
+**We Completely Promote Developers..**
 **The "C" Converted File of The Program Can Be File [Here](C-Build/IronEye.c)**
-
-
-

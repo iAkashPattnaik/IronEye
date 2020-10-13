@@ -60,6 +60,9 @@ by this tool will not be my responsibility..
     <summary>
         Click Here To See The Installation For Android (Linux Based Termux.)
     </summary>
+    
+   For Complete Tutorial - [Click Here](https://t.me/IndianBots/106)
+    
     <h4>Open Your Termux And Copy-Paste These >></h4>
     
     pkg update && pkg upgrade -y

@@ -49,7 +49,10 @@ by this tool will not be my responsibility..
     git clone https://github.com/BLUE-DEVIL1134/IronEye.git
     cd IronEye
     chmod +x *
-    IronEye_Linux.sh
+    apt install python -y
+    pip install -r requirements.txt
+    python -m IronEye
+
 </details>
 
 ### For Android

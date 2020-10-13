@@ -86,7 +86,7 @@ by this tool will not be my responsibility..
 
 [1] - Any one is free to use this tool in any way...
 [2] - I Will not be responsible for the harm caused by this tool.
-[3] - Forking Or Using The Tool without A STAR Will me Regarded As A Crime..
+[3] - Forking Or Using The Tool without A STAR Will be Regarded As A Crime..
 [4] - Modifying The Project Without Giving Me Credits Is Also A Crime..
 [5] - This Tool Is Only For Educational Purposes.
 

@@ -19,15 +19,6 @@ Latest Update On : First Commit
 
         Just Not To Happen With Any Other,
         This Project Was Made.
-
-[*] Usage -
-        apt update && apt upgrade -y
-        apt install git -y
-
-        git clone https://github.com/BLUE-DEVIL1134/IronEye.git
-        cd IronEye
-        chmod +x *
-        IronEye.sh
 """
 
 __version__ = 1.0
@@ -37,4 +28,10 @@ __telegram__ = "https://telegram.me/AKASH_AM1"
 __copyright__ = "(c) Akash Pattnaik 2020-2025"
 __github__ = "https://github.com/BLUE-DEVIL1134/IronEye"
 __Pypi__ = "https://pypi.org/user/AkashPattnaik/"
-__latest_update__ = "12-10-2020"
+__latest_update__ = "13-10-2020"
+
+class PersonalException(ConnectionError):
+    def __init__(self):
+        print("Seems That You Have Some Internet Problems.\n"
+              "Retrying..")
+        pass

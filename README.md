@@ -70,11 +70,11 @@ by this tool will not be my responsibility..
     apt install wget -y
     apt install openssh openssl -y
     apt install python -y
-    pip install -r requirements.txt
 
     git clone https://github.com/BLUE-DEVIL1134/IronEye.git
     cd IronEye
     chmod +x *
+    pip install -r requirements.txt
     python -m IronEye
 
 </details>

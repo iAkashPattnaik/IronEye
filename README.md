@@ -63,7 +63,7 @@ by this tool will not be my responsibility..
     
    For Complete Tutorial - [Click Here](https://t.me/IndianBots/106)
     
-    <h4>Open Your Termux And Copy-Paste These >></h4>
+   <h4>Open Your Termux And Copy-Paste These >></h4>
     
     pkg update && pkg upgrade -y
     pkg install git -y

@@ -64,11 +64,6 @@ by this tool will not be my responsibility..
     
     pkg update && pkg upgrade -y
     pkg install git -y
-    apt update && apt upgrade -y
-    apt install git -y
-    apt install python3-pip -y
-    apt install wget -y
-    apt install openssh openssl -y
     apt install python -y
 
     git clone https://github.com/BLUE-DEVIL1134/IronEye.git

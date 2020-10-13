@@ -16,6 +16,7 @@ So We Completely Promote Pycharm And Demote Any
 Other IDE Like \\"Visual\\" Sudio And \\"Jupyter NoteBook\\".
 
 Daily Updates Of The Tools Will Be There..
+Make Sure To Read The License.
 ```
 
 ## Description

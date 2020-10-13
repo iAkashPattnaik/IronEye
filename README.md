@@ -55,17 +55,24 @@ by this tool will not be my responsibility..
 ### For Android
 <details>
     <summary>
-        Click Here To See The Installation For Linux
+        Click Here To See The Installation For Android (Linux Based Termux.)
     </summary>
     <h4>Open Your Termux And Copy-Paste These >></h4>
     
     pkg update && pkg upgrade -y
     pkg install git -y
-    
+    apt update && apt upgrade -y
+    apt install git -y
+    apt install python3-pip -y
+    apt install wget -y
+    apt install openssh openssl -y
+    apt install python -y
+    pip install -r requirements.txt
+
     git clone https://github.com/BLUE-DEVIL1134/IronEye.git
     cd IronEye
     chmod +x *
-    IronEye_Termux.sh
+    python -m IronEye
 
 </details>
 

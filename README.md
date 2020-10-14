@@ -47,11 +47,11 @@ by this tool will not be my responsibility..
     
     apt update && apt upgrade -y
     apt install git -y
+    apt install python -y
 
     git clone https://github.com/BLUE-DEVIL1134/IronEye.git
     cd IronEye
     chmod +x *
-    apt install python -y
     pip install -r requirements.txt
     python -m IronEye
 

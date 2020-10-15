@@ -45,7 +45,7 @@ by this tool will not be my responsibility..
 ### For Linux [<img alt="Linux" width="26px" align="left" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/linux.jpg" />](https://www.linux.org/)
 <details>
     <summary>
-        Click Here To See The Installation For Linux
+        <b>Click Here To See The Installation For Linux</b>
     </summary>
     <h4>Open Your Terminal (Linux Based) And Copy-Paste These >></h4>
     
@@ -64,7 +64,7 @@ by this tool will not be my responsibility..
 ### For Android [<img alt="Android" width="100px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/android.png" />](https://www.android.com/)
 <details>
     <summary>
-        Click Here To See The Installation For Android (Linux Based Termux.)
+        <b>Click Here To See The Installation For Android (Linux Based Termux.)</b>
     </summary>
     
    For Complete Tutorial - [Click Here](https://t.me/IndianBots/106)

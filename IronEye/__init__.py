@@ -21,14 +21,14 @@ Latest Update On : First Commit
         This Project Was Made.
 """
 
-__version__ = 1.0
+__version__ = 1.1
 __email__ = "akashpattnaik.github@gmail.com"
 __author__ = "Akash Pattnaik"
 __telegram__ = "https://telegram.me/AKASH_AM1"
 __copyright__ = "(c) Akash Pattnaik 2020-2025"
 __github__ = "https://github.com/BLUE-DEVIL1134/IronEye"
 __Pypi__ = "https://pypi.org/user/AkashPattnaik/"
-__latest_update__ = "13-10-2020"
+__latest_update__ = "15-10-2020"
 
 class PersonalException(ConnectionError):
     def __init__(self):

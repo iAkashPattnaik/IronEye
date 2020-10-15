@@ -42,7 +42,7 @@ by this tool will not be my responsibility..
 **Lets See How Can You Install This Extremely Powerful Tool**
 **You Can Install This Tool With `Git` Like This :)**
 
-### For Linux
+### For Linux [<img alt="Linux" width="26px" align="left" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/linux.jpg" />](https://www.linux.org/)
 <details>
     <summary>
         Click Here To See The Installation For Linux
@@ -61,7 +61,7 @@ by this tool will not be my responsibility..
 
 </details>
 
-### For Android
+### For Android [<img alt="Android" width="100px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/android.png" />](https://www.android.com/)
 <details>
     <summary>
         Click Here To See The Installation For Android (Linux Based Termux.)

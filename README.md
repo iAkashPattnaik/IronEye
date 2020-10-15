@@ -120,7 +120,7 @@ by this tool will not be my responsibility..
 
 ## Tools-Languages Used To Make This Tool -
 [<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://help.ubuntu.com/kubuntu/desktopguide/es/terminals.html)
+[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
 [<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/)
 [<img align="left" alt="PyCharm" width="56px" src="./img/download.jpg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Python" width="45px" src="./img/download.png" />](https://www.python.org/)

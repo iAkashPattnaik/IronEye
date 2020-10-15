@@ -124,3 +124,4 @@ by this tool will not be my responsibility..
 [<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/)
 [<img align="left" alt="PyCharm" width="56px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.jpg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.png" />](https://www.python.org/)
+[<img align="left" alt="ItnelliJ-Idea" width="45px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/intellij_idea.jpg" />](https://www.jetbrains.com/idea/)

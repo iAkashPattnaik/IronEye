@@ -14,7 +14,7 @@
 * :heavy_check_mark:[Notice](#Notice)
 
 ## Notice
-```pythonregexp
+```python
 This Tool Was Built On Pycharm Under The 
 Community Version,
 So We Completely Promote Pycharm And Demote Any
@@ -25,7 +25,7 @@ Make Sure To Read The License.
 ```
 
 ## Description
-```stylelint
+```python
 IronEye Is a extremely powerful tool for used for Cracking Puroses.
 I made this only for educational purpose and any kind of harm caused 
 by this tool will not be my responsibility..
@@ -87,7 +87,7 @@ by this tool will not be my responsibility..
 <img src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/ezgif-3-37eeef2442fd.gif" alt="Example_1" width="850px" />
 
 ## License
-```
+```python
                 Private License
         (c) Akash Pattnaik , 2020-2025
 

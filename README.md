@@ -5,13 +5,13 @@
 <img src="https://img.shields.io/badge/Version-1.0-blueviolet?&logo=github&style=flat" />
 </p>
 
-* [Description](#Description)
-* [Installation](#Installation)
-* [Examples](#Examples)
+* :eye:[Description](#Description)
+* :mechanical_arm:[Installation](#Installation)
+* :supervillain_woman:[Examples](#Examples)
 * :warning:[License](#License)
-* [Tool Creators](#Tool_By)
-* [Developers](#Developers)
-* :warning:[Notice](#Notice)
+* :woman_technologist:[Tool Creators](#Tool_By)
+* :copyright:[Developers](#Developers)
+* :heavy_check_mark:[Notice](#Notice)
 
 ## Notice
 ```pythonregexp

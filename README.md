@@ -84,7 +84,7 @@ by this tool will not be my responsibility..
 </details>
 
 ## Examples
-<img src="./img/Example.png" alt="Example_1">
+<img src="./img/ezgif-3-37eeef2442fd.gif" alt="Example_1">
 
 ## License
 ```

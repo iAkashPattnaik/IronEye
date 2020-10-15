@@ -24,6 +24,15 @@ Daily Updates Of The Tools Will Be There..
 Make Sure To Read The License.
 ```
 
+## Tools-Languages Used To Make This Tool -
+[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
+[<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/)
+[<img align="left" alt="PyCharm" width="56px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.jpg" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.png" />](https://www.python.org/)
+
+
+
 ## Description
 ```stylelint
 IronEye Is a extremely powerful tool for used for Cracking Puroses.
@@ -117,10 +126,3 @@ by this tool will not be my responsibility..
 **The "C" Converted File of The Program Can Be File [Here](C-Build/IronEye.c)**
 
 **the Node.JS Converted File Will Be Released On Next Official release.**
-
-## Tools-Languages Used To Make This Tool -
-[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://play.google.com/store/apps/details?id=com.termux)
-[<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/)
-[<img align="left" alt="PyCharm" width="56px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.jpg" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/download.png" />](https://www.python.org/)

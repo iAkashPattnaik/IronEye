@@ -10,7 +10,7 @@
    // Github : github.com/BLUE-DEVIL1134 \\
 
 Create Date : 09/10/2020
-Latest Update On : 23/10/20
+Latest Update On : 24/10/20
 
 [*] The Idea -
         The Idea Behind This Project Is That,
@@ -21,14 +21,14 @@ Latest Update On : 23/10/20
         This Project Was Made.
 """
 
-__version__ = 2.0
+__version__ = 2.1
 __email__ = "akashpattnaik.github@gmail.com"
 __author__ = "Akash Pattnaik"
 __telegram__ = "https://telegram.me/AKASH_AM1"
 __copyright__ = "(c) Akash Pattnaik 2020-2025"
 __github__ = "https://github.com/BLUE-DEVIL1134/IronEye"
 __Pypi__ = "https://pypi.org/user/AkashPattnaik/"
-__latest_update__ = "23/10/20"
+__latest_update__ = "24/10/20"
 
 class PersonalException(ConnectionError):
     def __init__(self):

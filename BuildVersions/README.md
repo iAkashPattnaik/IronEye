@@ -2,10 +2,10 @@
 
 **Version 2.7 Updates :**
 ```python
-      Bug Fixes
-      MCMX Checker
-      New Wonderfull Look
-      Alt Balaji Bug Fixed
-      Faster Threading Check
-      Showing Hits File Name
+      [+] Bug Fixes
+      [+] MCMX Checker
+      [+] New Wonderfull Look
+      [+] Alt Balaji Bug Fixed
+      [+] Faster Threading Check
+      [+] Showing Hits File Name
 ```

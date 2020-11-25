@@ -3,6 +3,7 @@
 # (c) Akash Pattnaik 2020-2025
 
 # Personal Files
+.bin/
 .gitignore
 README.md
 img/

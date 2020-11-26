@@ -20,6 +20,9 @@ Community Version,
 So We Completely Promote Pycharm And Demote Any
 Other IDE Like \\"Visual\\" Sudio And \\"Jupyter NoteBook\\".
 
+Its OpenSource So Completly Any Kind Of Stealer Free.
+
+
 Daily Updates Of The Tools Will Be There..
 Make Sure To Read The License.
 ```

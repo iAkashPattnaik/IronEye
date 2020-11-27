@@ -87,7 +87,7 @@ by this tool will not be my responsibility..
 </details>
 
 ## Examples
-<img src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/ezgif-3-37eeef2442fd.gif" alt="Example_1" width="850px" />
+<img src="https://raw.githubusercontent.com/BLUE-DEVIL1134/BLUE-DEVIL1134/main/img/ezgif.com-gif-maker.gif" alt="example" width="850px" />
 
 ## License
 ```python

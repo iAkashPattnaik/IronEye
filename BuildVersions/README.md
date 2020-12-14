@@ -10,4 +10,5 @@
       [+] New FreeKaMaal Checker
       [+] New Aha Checker
       [+] New VyprVpn Checker
+      [+] 2 New Private Combo Files
 ```

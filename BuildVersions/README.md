@@ -1,11 +1,14 @@
-# <h1 align="center">Its The Release Version. {2.7}</h1>
+# <h1 align="center">Its The Release Version. {3.0}</h1>
 
 **Version 2.7 Updates :**
 ```python
       [+] Bug Fixes
-      [+] MCMX Checker
-      [+] New Wonderfull Look
-      [+] Alt Balaji Bug Fixed
-      [+] Faster Threading Check
-      [+] Showing Hits File Name
+      [+] Removed Facebook Checker
+      [+] Removed Termux Banner Changer
+      [+] Removed Youtube Downloader
+      [+] New Hulu Checker
+      [+] New FreeKaMaal Checker
+      [+] New Aha Checker
+      [+] New VyprVpn Checker
+      [+] 2 New Private Combo Files
 ```

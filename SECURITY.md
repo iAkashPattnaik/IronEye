@@ -7,7 +7,9 @@
 | 1.3   | :x: |
 | 1.7   | :x: |
 | 2.1   | :x: |
-| 2.3   | :white_check_mark: |
+| 2.3   | :x: |
+| 2.7   | :white_check_mark: |
+| 3.0   | :white_check_mark: |
 
 
 # Found A Velnerability ?

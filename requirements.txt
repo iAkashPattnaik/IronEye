@@ -1,6 +1,4 @@
 requests~=2.25.0
 bs4~=0.0.1
 beautifulsoup4~=4.9.3
-pyfiglet~=0.8.post1
 colorama~=0.4.4
-pytube3==9.6.4

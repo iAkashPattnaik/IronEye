@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://github.com/BLUE-DEVIL1134/IronEye"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBLUE-DEVIL1134%2FIronEye%2F&count_bg=%232100FF&title_bg=%2300BBFF&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=false" /></a>
 <img src="https://img.shields.io/badge/Version-3.0-blueviolet?&logo=github&style=flat" />
+<a href="https://gitter.im/IronEye/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/IronEye/community.svg" /></a>
 </p>
 
 * :eye:[Description](#Description)

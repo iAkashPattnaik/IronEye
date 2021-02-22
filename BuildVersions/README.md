@@ -1,14 +1,15 @@
-# <h1 align="center">Its The Release Version. {3.0}</h1>
+# <h1 align="center">Its The Release Version. {3.1}</h1>
 
-**Version 2.7 Updates :**
+**Version 3.1 Updates :**
 ```python
-      [+] Bug Fixes
-      [+] Removed Facebook Checker
-      [+] Removed Termux Banner Changer
-      [+] Removed Youtube Downloader
-      [+] New Hulu Checker
-      [+] New FreeKaMaal Checker
-      [+] New Aha Checker
-      [+] New VyprVpn Checker
-      [+] 2 New Private Combo Files
+      [+] Added Subscription Check To Zee5 Checker !
+      [+] Added Subscription Check To Alt Balaji Checker !
+      [+] Added WWE Checker !
+      [+] Changed The Way Of Saving Hits !
+      [+] Masive Improvement In "Working With Poor Internet Connection" !
+      [+] Hits File Will Be Saved With ".ir" Extension Instead Or ".txt" Representing "IronEye" !
+      [+] A Complete New System Of Saving Hits Was Introduced, When Using IronEye And Suddenly
+          Electricity Goes... It Saves Each Hit To System Cache..
+
+          So, Whenever Electricity Goes, Your Hits Will Be Saved And Secure !
 ```

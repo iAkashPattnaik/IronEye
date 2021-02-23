@@ -11,7 +11,7 @@
 | 2.7   | :white_check_mark: |
 | 3.0   | :x: |
 | 3.1   | :x: |
-| 3.12   | :white_check_mark: |
+| 3.13   | :white_check_mark: |
 
 
 # Found A Velnerability ?

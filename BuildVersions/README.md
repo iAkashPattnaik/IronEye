@@ -1,4 +1,4 @@
-# <h1 align="center">Its The Release Version. {3.12}</h1>
+# <h1 align="center">Its The Release Version. {3.13}</h1>
 
 **Version 3.2 Updates :**
 ```python

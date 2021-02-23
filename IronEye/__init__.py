@@ -32,7 +32,7 @@ Latest Update On : 23/02/2021
         python -n IronEye
 """
 
-__version__ = 3.12
+__version__ = 3.13
 __email__ = "akashpattnaik.github@gmail.com"
 __author__ = "Akash Pattnaik"
 __telegram__ = "https://telegram.me/AKASH_AM1"

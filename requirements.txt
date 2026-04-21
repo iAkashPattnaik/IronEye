@@ -1,5 +1,5 @@
 requests>=2.25.1
 colorama>=0.4.4
-bs4>=0.0.1
+bs4>=0.0.2
 beautifulsoup4>=4.9.3
 telethon>=1.17.5
